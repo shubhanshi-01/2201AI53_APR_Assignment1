@@ -21,7 +21,5 @@ This project applies **Logistic Regression** to predict wine quality based on va
 ## Dataset
 https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
 
-Install all dependencies with:
-```bash
-pip install -r requirements.txt
+Install all dependencies 
 
