@@ -4,7 +4,7 @@
 This project applies **Logistic Regression** to predict wine quality based on various physicochemical properties of the wine. The goal is to classify whether a wine sample is of good quality or not.
 
 ## 📂 Repository Structure
-- `Assignment1_WineQuality_LogReg.ipynb` → Jupyter Notebook with implementation  
+- `2201AI53_Assignment1.ipynb` → Jupyter Notebook with implementation  
 - `report.pdf` → PDF report summarizing the work  
 - `README.md` → Project documentation  
 - `requirements.txt` → Python dependencies  
