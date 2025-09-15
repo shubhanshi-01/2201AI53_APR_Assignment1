@@ -5,7 +5,7 @@ This project applies **Logistic Regression** to predict wine quality based on va
 
 ## 📂 Repository Structure
 - `2201AI53_Assignment1.ipynb` → Jupyter Notebook with implementation  
-- `report.pdf` → PDF report summarizing the work  
+- `2201AI53_Assignemnet1_Report.pdf` → PDF report summarizing the work  
 - `README.md` → Project documentation   
 
 ## ⚙️ Requirements
