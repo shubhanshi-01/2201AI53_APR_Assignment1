@@ -19,7 +19,7 @@ This project applies **Logistic Regression** to predict wine quality based on va
   - scikit-learn  
 
 ## Dataset
-https://www.kaggle.com/datasets/piyushgoyal443/red-wine-dataset
+https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
 
 Install all dependencies with:
 ```bash
