@@ -18,6 +18,10 @@ This project applies **Logistic Regression** to predict wine quality based on va
   - seaborn  
   - scikit-learn  
 
+##Dataset
+https://archive.ics.uci.edu/dataset/186/wine%2Bquality?utm_source=chatgpt.com
+
 Install all dependencies with:
 ```bash
 pip install -r requirements.txt
+
